@@ -12,4 +12,4 @@ In the project directory, you can run:
 
 ### `npm run eject`
 
-<img src="img/.png"/>
+<img src="img/img.png"/>
